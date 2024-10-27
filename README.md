@@ -1,3 +1,37 @@
+# Anti-Hate Initiative Repository
+
+## Overview
+
+The Anti-Hate Initiative is a collaborative project under the CHI organization, aimed at promoting awareness, engagement, and community-building through various events and sub-projects. This repository supports the planning, documentation, and coordination of these activities, which will culminate in performances, presentations, exhibitions, and publications scheduled for April 2024.
+
+This README provides a high-level overview of the repository, with links to detailed guides and resources located in the project Wiki. For more in-depth documentation, please visit our [Wiki](https://github.com/CHI/anti-hate/wiki).
+
+## Quick Links
+
+- [Detailed Project Specifications](https://github.com/CHI/anti-hate/wiki/Overview-and-Repository-Structure)
+- [Event Planning and Documentation Guide](https://github.com/CHI/anti-hate/wiki/Event-Planning-and-Documentation)
+- [Outreach and Engagement Guide](https://github.com/CHI/anti-hate/wiki/Outreach-and-Engagement-Guide)
+- [Complete Wiki](https://github.com/CHI/anti-hate/wiki)
+
+## Sub-Projects
+
+Each sub-project has its own folder under `/sub_projects` and is managed independently. Sub-projects are aligned with specific outcomes such as performances, exhibitions, and publications.
+
+- [Project 1](sub_projects/project_1) - **Performance**: Description of Project 1.
+- [Project 2](sub_projects/project_2) - **Exhibition**: Description of Project 2.
+- [Project n](sub_projects/project_n) - **Publication**: Description of Project n.
+
+For instructions on creating and managing new sub-projects, refer to our [Sub-Project Management Guide](https://github.com/CHI/anti-hate/wiki/Sub-Project-Management).
+
+## Contributing
+
+We welcome contributions from team members and collaborators! Please refer to our [Documentation and Contribution Guidelines](https://github.com/CHI/anti-hate/wiki/Documentation-and-Contribution-Guidelines) for best practices on maintaining files, updating documentation, and using GitHub Project Boards.
+
+---
+
+For questions or further assistance, contact the project coordinators or check the [Wiki](https://github.com/CHI/anti-hate/wiki) for more detailed information.
+
+
 # Anti-Hate
 Project Management for the City Tech contribution to the CUNY Anti-Hate campaign
 
