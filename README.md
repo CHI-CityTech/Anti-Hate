@@ -9,7 +9,7 @@ This README provides a high-level overview of the repository, with links to deta
 ## Quick Links
 
 - [Overview and Repository Structure](https://github.com/CHI-CityTech/Anti-Hate/wiki/Overview-and-Repository-Structure)
-- [Event Planning and Documentation Guide](https://github.com/CHI-CityTech/Anti-Hate/wiki/Event-Planning-and-Documentation)
+- [Event Planning and Documentation Guide](https://github.com/CHI-CityTech/Anti-Hate/wiki/Event_Planning)
 - [Outreach and Engagement Guide](https://github.com/CHI-CityTech/Anti-Hate/wiki/Outreach-and-Engagement-Guide)
 - [Complete Wiki](https://github.com/CHI-CityTech/Anti-Hate/wiki)
 
