@@ -25,19 +25,10 @@
 - **HSI Lead**: Melanie Villatoro – Connect for Hispanic engagement.
 - **AFR Lead**: Renata Ferdinand – Coordinate African-American engagement.
 
-### Advertising Goals
-- Define culturally relevant materials and messaging.
-- Plan for targeted outreach and early advertisements in both HSI and AFR communities.
-
-### Advertising Materials Development
-- **Design Assets**: Work with student interns to create posters, social media graphics, and video teasers.
-- **Promotional Plan**: Develop a calendar with release dates for print, digital, and social media ads.
-- **Outreach Coordination**: Ensure materials align with target audiences, especially HSI and AFR groups.
-
 ## 3. Expanded Outreach to Project Collaborators (November 2023)
 
 ### Presentations to Deans and Departmental Stakeholders
-- **Goal**: Schedule presentations for all Deans,
+- **Goal**: Schedule presentations for all Deans/Chair Meetings
 - **Presentation at Deans Meetings**
   - School of Arts and Sciences
   - School of Professional Studies
@@ -53,7 +44,7 @@
 - **Nazanine Munroe**: Screened Off continuation or other exhibition
 - **Dan Wong**: Cultural and narrative project opportunities.
 
-- **Objective**: Establish commitments and discuss how each collaborator can support advertising and event objectives.
+- **Objective**: Establish commitments and discuss how each collaborator can support event objectives.
 
 ## 4. Define Student Intern Roles and Recruitment (November - December 2023)
 
@@ -62,7 +53,22 @@
 - **Design and Creative Support**: Develop advertising assets, event visuals, and shadow puppetry support.
 - **Outreach and Marketing**: Coordinate with HSI/AFR communities and manage promotional logistics.
 
-## 5. Project Timeline (Updated)
+## 5. Advertising and Promotion
+### Goals
+- Define culturally relevant materials and messaging.
+- Plan for targeted outreach and early advertisements in both HSI and AFR communities.
+- Develop materials for distribution
+- Use multiple communication modalities
+  - Open Lab
+  - Student Clubs
+  - Undergraduate Research 
+
+### Advertising Materials Development
+- **Design Assets**: Work with student interns to create posters, social media graphics, and video teasers.
+- **Promotional Plan**: Develop a calendar with release dates for print, digital, and social media ads.
+- **Outreach Coordination**: Ensure materials align with target audiences, especially HSI and AFR groups.
+
+## 6. Project Timeline (Very Tentative beyond )
 
 | **Timeline**           | **Task**                                             |
 |------------------------|------------------------------------------------------|
@@ -72,4 +78,4 @@
 | January 2024           | Launch Advertising, Finalize Event Roles and Details |
 | February 2024          | Refine Event Materials, Confirm Logistics            |
 | March 2024             | Secure Final Approvals, Conduct System and Space Tests |
-| April 2024             | Final Preparations, Execute Event on April 24 or 26  |
+| April 2024             | Final Preparations, Load in and Tech, Execute Event on April 24   |
